@@ -16,3 +16,7 @@ I slightly modified **Natural Language Toolkit: Plaintext Corpus Reader** to inc
 Feel free to contact @ osingh1@umbc.edu
 
 Warning: The directory paths in the notebooks might be obsolete as these are directly transferred here from my another private repository!!!
+
+![alt text][dl_acc]
+
+[dl_acc]: https://github.com/oya163/nepali-text-classification/blob/master/images/dl_acc.JPG "Deep Learning Algorithms Accuracy"
