@@ -17,6 +17,12 @@ Feel free to contact @ osingh1@umbc.edu
 
 Warning: The directory paths in the notebooks might be obsolete as these are directly transferred here from my another private repository!!!
 
+Accuracy of Deep Learning algorithms
 ![alt text][dl_acc]
 
 [dl_acc]: https://github.com/oya163/nepali-text-classification/blob/master/images/dl_acc.JPG "Deep Learning Algorithms Accuracy"
+
+Accuracy of Tradiitonal Machine Learning algorithms
+![alt text][ml_acc]
+
+[ml_acc]: https://github.com/oya163/nepali-text-classification/blob/master/images/ml_acc.JPG "Machine Learning Algorithms Accuracy"
